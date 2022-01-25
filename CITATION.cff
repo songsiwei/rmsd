@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: Calculate Root-mean-square deviation (RMSD) of two molecules
+abstract: Calculate Root-mean-square deviation (RMSD) of two molecules, using rotation and atom assignment, in xyz or pdb format.
+authors:
+  - family-names: Kromann
+    given-names: Jimmy
+license: BSD-2-Clause
+url: "https://github.com/charnley/rmsd"
+repository-code: "https://github.com/charnley/rmsd"
